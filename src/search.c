@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2025
-** B-CPE-110-BAR-1-1-secured-mark.charadnik
+** B-CPE-110-BAR-1-1
 ** File description:
 ** search
 */
